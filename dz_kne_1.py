@@ -1,6 +1,5 @@
 import pytest
 
 def test_dz_kne_1():
-    a = 2
-    b = 3
-    assert a + b == 5
+    assert 4 + 3 == 7
+    assert 2 + 2 == 4
